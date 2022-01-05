@@ -86,7 +86,7 @@ The list is under construction. Please feel free to send me [pull requests](http
 ![](https://img.shields.io/badge/author-pycroscopy-be8abf)
 ![](https://img.shields.io/github/stars/pycroscopy/atomai)
 ## 4DSTEM
-- [LiberTEM]([link](https://github.com/LiberTEM/LiberTEM)) <br>
+- [LiberTEM](https://github.com/LiberTEM/LiberTEM) <br>
 ![](https://img.shields.io/badge/author-LiberTEM-be8abf)
 ![](https://img.shields.io/github/stars/LiberTEM/LiberTEM)
 
