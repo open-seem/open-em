@@ -61,11 +61,11 @@ The list is under construction. Please feel free to send me [pull requests](http
 ![](https://img.shields.io/pypi/dm/abTEM)
 ![](https://img.shields.io/github/stars/jacobjma/abTEM)
 
-- [py_multislice]([link](https://github.com/HamishGBrown/py_multislice)) <br>
+- [py_multislice](https://github.com/HamishGBrown/py_multislice) <br>
 ![](https://img.shields.io/badge/author-HamishGBrown-be8abf)
 ![](https://img.shields.io/github/stars/HamishGBrown/py_multislice)
 
-- [MuSTEM]([link](https://github.com/HamishGBrown/MuSTEM)) <br>
+- [MuSTEM](https://github.com/HamishGBrown/MuSTEM) <br>
 ![](https://img.shields.io/badge/author-HamishGBrown-be8abf)
 ![](https://img.shields.io/github/stars/HamishGBrown/MuSTEM)
 
